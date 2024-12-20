@@ -24,3 +24,9 @@ def main():
     print("division : "/"")
     print("multiplication : "*"")
     print("type exit to leave the calculator")
+
+    while True :
+        operation = input("")
+
+#calling it
+main()
